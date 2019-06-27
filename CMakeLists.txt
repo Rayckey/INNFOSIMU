@@ -23,6 +23,7 @@ set (
     INNFOX_IMU_SRCS
    ${CMAKE_CURRENT_SOURCE_DIR}/innfosimu.cpp
    ${CMAKE_CURRENT_SOURCE_DIR}/crosstimer.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/cII.cpp
 )
 
 
